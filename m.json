@@ -316,8 +316,8 @@
 {"key":"csp_appysv2_影视猫","name":"影视猫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.wscyun.com/api.php/v1.vod"},
 {"key":"csp_appysv2_蒲公英视频","name":"蒲公英视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pgy1.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appysv2_免费影视","name":"免费影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.229.120.180:88/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_金叶影院","name":"金叶影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"}
-{"key":"csp_semaozy3_色猫资源","name":"色猫资源","type":1,"api":"https://api.maozyapi.com/inc/api.php","playUrl":"https://api.maozyapi.com/m3u8/?url=","searchable":1,"quickSearch":1},],
+{"key":"csp_appysv2_金叶影院","name":"金叶影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"},
+{"key":"csp_semaozy3_色猫资源","name":"色猫资源","type":1,"api":"https://api.maozyapi.com/inc/api.php","playUrl":"https://api.maozyapi.com/m3u8/?url=","searchable":1,"quickSearch":1}],
  
 "parses":[
 {"name":"自动解析","type":3,"url":"Demo"},
