@@ -1,4 +1,4 @@
-月光宝盒BOX,#genre#
+港澳台,#genre#
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 东风37台,http://61.219.170.95:18560/.m3u8
 龙华戏剧台,http://61.219.170.95:18507/.m3u8
