@@ -301,7 +301,7 @@
     },
     {
       "key": "csp_xpath_kuqimv",
-      "name": "🎤经典MV",
+      "name": "经典MV",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -311,7 +311,7 @@
     },
     {
       "key": "csp_xpath_jbb",
-      "name": "🏳️剧白白",
+      "name": "🏳剧白白",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
