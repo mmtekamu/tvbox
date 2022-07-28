@@ -553,7 +553,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1OTAyMjk3MC50eHQKICAgCg=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly92aXAuZnVxaXpoaXNoaS5jb20vdHZib3gvbGl2ZS50eHQ="
           ]
         }
       ]
