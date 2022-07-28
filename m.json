@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_77",
-      "name": "酷云七七（推荐）",
+      "name": "酷云七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
