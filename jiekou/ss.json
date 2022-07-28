@@ -1,29 +1,10 @@
 {
   "sites": [
     {
-      "key": "*奶茶资源",
-      "name": "*奶茶资源",
-      "type": 1,
-      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
-      "playUrl": "https://jiexi.naichaapi.com/?url=",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "*KK写真资源",
-      "name": "*KK写真资源",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
+      "key": "奶茶资源",
+      "name": "奶茶资源",
       "type": 3,
-      "api": "csp_PushAgent",
+      "api": "https://caiji.naichaapi.com/inc/api.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -36,7 +17,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbW10ZWthbXUvdHZib3gvbWFpbi9qaWVrb3Uvc3MuanNvbg=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly92aXAuZnVxaXpoaXNoaS5jb20vdHZib3gvbGl2ZS50eHQ="
           ]
         }
       ]
