@@ -1,16 +1,6 @@
 {
   "sites": [
     {
-      "key": "csp_BBB",
-      "name": "哔哩套餐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/bili.json"
-    },
-    {
       "key": "csp_77",
       "name": "酷云七七（推荐）",
       "type": 3,
@@ -29,6 +19,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_BBB",
+      "name": "哔哩套餐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/bili.json"
+    },
+    {
       "key": "小苹果",
       "name": "小苹果",
       "type": 3,
@@ -42,15 +42,6 @@
       "name": "完美看看",
       "type": 3,
       "api": "csp_Wmkk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Kmys",
-      "name": "酷猫(快~不稳)",
-      "type": 3,
-      "api": "csp_Kmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -130,6 +121,15 @@
       "ext": "3a49cf29cf20410997247c6eb4509be9"
     },
     {
+      "key": "csp_DiDuan",
+      "name": "低端影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "csp_QQ",
       "name": "腾讯（官）",
       "type": 3,
@@ -161,6 +161,15 @@
       "name": "293视频",
       "type": 3,
       "api": "csp_SP293",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Kmys",
+      "name": "酷猫(快~不稳)",
+      "type": 3,
+      "api": "csp_Kmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -311,7 +320,7 @@
     },
     {
       "key": "csp_xpath_jbb",
-      "name": "🏳剧白白",
+      "name": "剧白白",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -360,6 +369,15 @@
       "ext": "https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/lanmei.json"
     },
     {
+      "key": "csp_appys_美剧星球",
+      "name": "美剧星球",
+      "type": 3,
+      "api": "csp_Mjxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_appys_美剧虫",
       "name": "美剧虫",
       "type": 3,
@@ -368,6 +386,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://meijuchong.com/api.php/v1.vod"
+    },
+    {
+      "key": "神马影院",
+      "name": "神马影院",
+      "type": 3,
+      "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "小熊",
@@ -400,7 +427,7 @@
     },
     {
       "key": "多多资源",
-      "name": "多多资源(切)",
+      "name": "多多资源",
       "type": 1,
       "api": "https://www.ddzyz1.com/api.php/provide/vod/",
       "searchable": 1,
@@ -409,7 +436,7 @@
     },
     {
       "key": "金鹰资源",
-      "name": "金鹰资源(切)",
+      "name": "金鹰资源",
       "type": 1,
       "api": "http://jinyingzy.com/provide/vod",
       "searchable": 1,
@@ -435,15 +462,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/lezhu.json"
-    },
-    {
-      "key": "影图",
-      "name": "影图",
-      "type": 1,
-      "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -514,36 +532,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://tvbox-gg.oss-cn-shanghai.aliyuncs.com/tvbox/tvjs/zhenbuka.json"
-    },
-    {
-      "key": "AliPS",
-      "name": "阿狸盘搜(仅搜索)",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
-    },
-    {
-      "key": "zhaozy",
-      "name": "找资源(仅搜索)",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送（爱优腾/阿里云盘/磁力链接）",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
     }
   ],
   "lives": [
@@ -852,6 +840,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://github.com/mmtekamu/tvbox/tree/main/image/bj(2)jpg",
-  "spider": "http://刚刚.live/jar/jar.jar"
+  "wallpaper": "http://刚刚.live/图",
+  "spider": "http://刚刚.live/jar/ggtv.jar"
 }
